@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gift!
+#### 👋 Hello, I'm Gift, and I am a:
 
 💼 Financial & Investment Data Analyst | 📊 Algorithmic & Quantitative Trader | Machine Learning Engineer 
 
