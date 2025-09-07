@@ -1,11 +1,11 @@
 # Hi there, I'm Gift Anyaoma 👋
 
 ## About Me
-I'm an Algorithmic Trader passionate about solving complex problems through quantitative research, algorithmic trading, and financial engineering. I leverage advanced analytics and modern programming to deliver impactful insights and optimize investment strategies. With experience across multiple industries, I focus on building scalable solutions that drive business value through data-driven decision making.
+I'm an Algorithmic Trader and Financial Data Scientist with over 2 years of experience building profitable trading strategies and data-driven solutions for individuals, firms, and independent traders. I specialize in leveraging Python, quantitative analysis, and machine learning to extract trends, research alphas, design predictive signals, and develop robust trading algorithms.
 
 ## 🛠️ Technical Skills
 
-* Quantitative Analysis & Econometrics  
+* Quantitative Analysis  
 * Algorithmic & Systematic Trading  
 * Machine Learning 
 * Financial Forecasting & Modeling  
