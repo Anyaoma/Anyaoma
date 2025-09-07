@@ -6,7 +6,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Gift's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiftAnyaoma&show_icons=true&theme=radical)
+![Gift's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anyaoma&show_icons=true&theme=radical)
 
 ---
 
