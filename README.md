@@ -18,3 +18,6 @@
   - Exploring **Alpha Mining** strategies  
 
 </details>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Quant](https://img.shields.io/badge/Quant-Finance-blue?style=for-the-badge)
