@@ -13,9 +13,9 @@
 <details>
   <summary>🎯 Click to see my current focus</summary>
 
-  - Building backtesting dashboards in **Streamlit**  
-  - Studying **Financial Engineering**  
-  - Exploring **Alpha Mining** strategies  
+  - Building backtesting dashboards in Streamlit 
+  - Studying Financial Engineering at WorldQuant University  
+  - Exploring Alpha Mining strategies  
 
 </details>
 
