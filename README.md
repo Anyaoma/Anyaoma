@@ -5,9 +5,9 @@ I'm an Algorithmic Trader and Financial Data Scientist with over 2 years of expe
 
 ## 🛠️ Technical Skills
 
-* Quantitative Analysis  
+* Quantitative Analysis
+* Machine Learning
 * Algorithmic & Systematic Trading  
-* Machine Learning 
 * Financial Forecasting & Modeling  
 
 ## 🔭 Core Competencies
@@ -23,7 +23,7 @@ I'm an Algorithmic Trader and Financial Data Scientist with over 2 years of expe
 ## 📫 Let's Connect!
 * 📧 Email: anyaomagiftndidi@gmail.com  
 * 💼 [LinkedIn](https://www.linkedin.com/in/gift-anyaoma-6a44a9170/)  
-* 🌐 [Portfolio](https://Anyaoma/Anyaoma.github.io/)  
+* 🌐 [Portfolio](https://Anyaoma.github.io/)  
 
 ---
 *"Markets are patterns of human behavior—and every pattern tells a story."*
