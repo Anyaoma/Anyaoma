@@ -1,9 +1,7 @@
-#### 👋 Hello, I'm Gift, and I am a:
+### 👋 My name is Gift, and my professional experience spans:
 
 💼 Financial & Investment Data Analyst | 📊 Algorithmic & Quantitative Trader | Machine Learning Engineer 
-
-- 🔭 I’m currently working on: Algorithmic Trading Systems  
-- 🌱 I’m learning: Advanced Data Engineering & DevOps    
+   
 
 ---
 
